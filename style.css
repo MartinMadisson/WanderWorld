@@ -1,4 +1,4 @@
-h1 {
+h1{
     color: rgb(8, 133, 3);
     display: flex;
     align-items: center;
@@ -6,20 +6,20 @@ h1 {
     height: 280px;
     font-size: 50px;
 }
-
-#start {
+#start{
     display: flex;
     align-items: center;
     justify-content: center;
     color: rgb(255, 255, 255);
     font-size: 35px;
     background-color: black
-}
-
-div {
+    }
+    
+div{
     display: flex;
     align-items: center;
     justify-content: center;
     width: 100%;
 
 }
+
