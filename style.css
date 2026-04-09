@@ -6,13 +6,13 @@ h1{
     height: 280px;
     font-size: 50px;
 }
-#start{
+#salvesta{
     display: flex;
     align-items: center;
     justify-content: center;
     color: rgb(255, 255, 255);
     font-size: 35px;
-    background-color: black
+    background-color: black;
     }
     
 div{
